@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\twitterClone\twitterClone\bin\Debug\twitterClone.exe.config
+C:\Users\USER\source\repos\twitterClone\twitterClone\bin\Debug\twitterClone.exe
+C:\Users\USER\source\repos\twitterClone\twitterClone\bin\Debug\twitterClone.pdb
+C:\Users\USER\source\repos\twitterClone\twitterClone\obj\Debug\twitterClone.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\twitterClone\twitterClone\obj\Debug\twitterClone.exe
+C:\Users\USER\source\repos\twitterClone\twitterClone\obj\Debug\twitterClone.pdb
